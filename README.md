@@ -1,10 +1,10 @@
-<h2 align="center">Must-Read NLP Papers ( -2019)</h2>
+<h1 align="center">Must-Read NLP Papers ( -2019)</h1>
 
-<p align="center">This repository contains important NLP papers (most), well-explained materials that everyone working in the field should know about and read.
+This repository contains important NLP papers (most), well-explained materials that everyone working in the field should know about and read.
 
 I also implements several State-of-the-art NLP models. You can find that on my repo.
 
-Check [the repo](https://github.com/pjlintw?tab=repositories)</p>
+Check [the repo](https://github.com/pjlintw?tab=repositories)
 
 
 ## Clustering & Word Embeddings
