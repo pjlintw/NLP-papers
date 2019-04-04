@@ -41,6 +41,8 @@ Check [the repo](https://github.com/pjlintw?tab=repositories)
 
 * Dzmitry Bahdanau, et al.: Neural Machine Translation by Jointly Learning to Align and Translate, 2014.
 
+* Yun Chen, et al.: A Teacher-Student Framework for Zero-Resource Neural Machine Translation, ACL, 2017
+
 * Ashish Vaswani, et al.: Attention Is All You Need, 2017.
 
 ## Named Entity Recognition
@@ -50,6 +52,8 @@ Check [the repo](https://github.com/pjlintw?tab=repositories)
 * Xuezhe Ma, Eduard Hovy: End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF, ACL 2016
 
 * Matthew Peters, et al.: Semi-Supervised Sequence Tagging With Bidirectional Language Models, ACL 2017
+
+* Kevin Clark, et al.: Semi-Supervised Sequence Modeling with Cross-View Training, EMNLP 2018
 
 * Matthew Peters, et al.: Deep Contextualized Word Representations, NAACL 2018
 
