@@ -7,6 +7,12 @@ I also implements several State-of-the-art NLP models. You can find that on my r
 Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)  
       [Attention Is All You Need (Transformer)](https://github.com/pjlintw/tf-transformer)   
 
+
+### Highlight of this repo:
+* NLP: Pretrained Language Model, Machine Translation, Text Summarization
+* CV: Image-to-image Translation
+* Learning Algorithm: Meta Learning 
+
 ### Index
 
 * Deep Learning
@@ -88,6 +94,8 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 * Yun Chen, et al.: A Teacher-Student Framework for Zero-Resource Neural Machine Translation, ACL 2017. [[ArXiv]](https://arxiv.org/abs/1705.00753)
 
 * Ashish Vaswani, et al.: Attention Is All You Need, 2017. [[ArXiv]](https://arxiv.org/abs/1706.03762)
+
+## Meta Learning
 
 ## Multi-Task Learning
 
