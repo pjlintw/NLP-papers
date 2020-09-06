@@ -73,12 +73,17 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018. [[Arxiv]](https://arxiv.org/abs/1810.04805)
 
+* Jeremy Howard and Sebastian Ruder: Universal Language Model Fine-tuning for Text Classification, ACL 2018. [[Arxiv]](https://arxiv.org/abs/1801.06146)
+
 * Alec Radford, et al: Improving Language Understanding by Generative Pre-Training, 2018. [[OpenAI](https://openai.com/blog/language-unsupervised/)]
 
+* Alec Radford, et al: Language Models are Unsupervised Multitask Learners, 2019. [[OpenAI]](https://openai.com/blog/better-language-models/)]
 
 ## Machine Translation
 
-* Dzmitry Bahdanau, et al.: Neural Machine Translation by Jointly Learning to Align and Translate, 2014. [[ArXiv]](https://arxiv.org/abs/1409.0473)
+* Dzmitry Bahdanau, et al.: Neural Machine Translation by Jointly Learning to Align and Translate, ICLR 2015. [[ArXiv]](https://arxiv.org/abs/1409.0473)
+
+* Minh-Thang Luong, et al.: Effective Approaches to Attention-based Neural Machine Translation, EMNLP 2015. [[Arxiv]](https://arxiv.org/abs/1508.04025)
 
 * Yun Chen, et al.: A Teacher-Student Framework for Zero-Resource Neural Machine Translation, ACL 2017. [[ArXiv]](https://arxiv.org/abs/1705.00753)
 
