@@ -97,8 +97,9 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 ## Meta Learning
 
-* Chelsea Finn, et al.: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, ICML 2017. [[Arxiv]])(https://arxiv.org/abs/1703.03400)
+* Chelsea Finn, et al.: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, ICML 2017. [[Arxiv]](https://arxiv.org/abs/1703.03400)
 
+* Sachin Ravi and Hugo Larochelle: Optimization as a Model for Few-Shot Learning, ICLR 2017. [[OpenReview]](https://openreview.net/forum?id=rJY0-Kcll)
 ## Multi-Task Learning
 
 * Victor Sanh, et al.: A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks, AAAI 2019 [[ArXiv]](https://arxiv.org/abs/1811.06031)
