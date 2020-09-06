@@ -67,9 +67,12 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Rafal Jozefowicz, et al.: Exploring the Limits of Language Modeling, 2016. [[ArXiv]](https://arxiv.org/abs/1602.02410)
 
+* Matthew Peters, et al.: Deep contextualized word representations, NAACL 2018. [[Arxiv]](https://arxiv.org/abs/1802.05365)
+
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018. [[Arxiv]](https://arxiv.org/abs/1810.04805)
 
 * Improving Language Understanding by Generative Pre-Training, 2018. [[OpenAI](https://openai.com/blog/language-unsupervised/)]
+
 
 ## Machine Translation
 
