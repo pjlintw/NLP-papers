@@ -1,4 +1,4 @@
-<h1 align="center">Must-Read NLP Papers ( -2019)</h1>
+<h1 align="center">Must-Read NLP Papers ( -2020)</h1>
 
 This repository contains important NLP papers (most), well-explained materials that everyone working in the field should know about and read.
 
@@ -96,6 +96,8 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 * Ashish Vaswani, et al.: Attention Is All You Need, 2017. [[ArXiv]](https://arxiv.org/abs/1706.03762)
 
 ## Meta Learning
+
+* Chelsea Finn, et al.: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, ICML 2017. [[Arxiv]])(https://arxiv.org/abs/1703.03400)
 
 ## Multi-Task Learning
 
