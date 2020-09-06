@@ -67,7 +67,7 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Rafal Jozefowicz, et al.: Exploring the Limits of Language Modeling, 2016. [[ArXiv]](https://arxiv.org/abs/1602.02410)
 
-* Improving Language Understanding by Generative Pre-Training_2018, 2018. [[OpenAI](https://openai.com/blog/language-unsupervised/)]
+* Improving Language Understanding by Generative Pre-Training, 2018. [[OpenAI](https://openai.com/blog/language-unsupervised/)]
 
 ## Machine Translation
 
