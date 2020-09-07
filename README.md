@@ -85,6 +85,10 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Alec Radford, et al: Language Models are Unsupervised Multitask Learners, 2019. [[OpenAI]](https://openai.com/blog/better-language-models/)]
 
+* Zihang Dai, et al: Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context, ACL 2019. [[Arxiv]](https://arxiv.org/abs/1901.02860)
+
+* Zhilin Yang, et al: XLNet: Generalized Autoregressive Pretraining for Language Understanding, NIPS 2019. [[Arxiv]](https://arxiv.org/abs/1906.08237)
+
 ## Machine Translation
 
 * Dzmitry Bahdanau, et al.: Neural Machine Translation by Jointly Learning to Align and Translate, ICLR 2015. [[ArXiv]](https://arxiv.org/abs/1409.0473)
