@@ -73,35 +73,37 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Rafal Jozefowicz, et al.: Exploring the Limits of Language Modeling, 2016. [[ArXiv]](https://arxiv.org/abs/1602.02410)
 
-* Matthew Peters, et al.: Semi-supervised sequence tagging with bidirectional language models, ACL 2017. [[Arxiv]](https://arxiv.org/abs/1705.00108)
+* Matthew Peters, et al.: Semi-supervised sequence tagging with bidirectional language models, ACL 2017. [[ArXiv]](https://arxiv.org/abs/1705.00108)
 
-* Matthew Peters, et al.: Deep contextualized word representations, NAACL 2018. [[Arxiv]](https://arxiv.org/abs/1802.05365)
+* Matthew Peters, et al.: Deep contextualized word representations, NAACL 2018. [[ArXiv]](https://arxiv.org/abs/1802.05365)
 
-* Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018. [[Arxiv]](https://arxiv.org/abs/1810.04805)
+* Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018. [[ArXiv]](https://arxiv.org/abs/1810.04805)
 
-* Jeremy Howard and Sebastian Ruder: Universal Language Model Fine-tuning for Text Classification, ACL 2018. [[Arxiv]](https://arxiv.org/abs/1801.06146)
+* Jeremy Howard and Sebastian Ruder: Universal Language Model Fine-tuning for Text Classification, ACL 2018. [[ArXiv]](https://arxiv.org/abs/1801.06146)
 
 * Alec Radford, et al: Improving Language Understanding by Generative Pre-Training, 2018. [[OpenAI](https://openai.com/blog/language-unsupervised/)]
 
 * Alec Radford, et al: Language Models are Unsupervised Multitask Learners, 2019. [[OpenAI]](https://openai.com/blog/better-language-models/)]
 
-* Zihang Dai, et al: Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context, ACL 2019. [[Arxiv]](https://arxiv.org/abs/1901.02860)
+* Zihang Dai, et al: Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context, ACL 2019. [[ArXiv]](https://arxiv.org/abs/1901.02860)
 
-* Zhilin Yang, et al: XLNet: Generalized Autoregressive Pretraining for Language Understanding, NIPS 2019. [[Arxiv]](https://arxiv.org/abs/1906.08237)
+* Zhilin Yang, et al: XLNet: Generalized Autoregressive Pretraining for Language Understanding, NIPS 2019. [[ArXiv]](https://arxiv.org/abs/1906.08237)
 
 ## Machine Translation
 
 * Dzmitry Bahdanau, et al.: Neural Machine Translation by Jointly Learning to Align and Translate, ICLR 2015. [[ArXiv]](https://arxiv.org/abs/1409.0473)
 
-* Minh-Thang Luong, et al.: Effective Approaches to Attention-based Neural Machine Translation, EMNLP 2015. [[Arxiv]](https://arxiv.org/abs/1508.04025)
+* Minh-Thang Luong, et al.: Effective Approaches to Attention-based Neural Machine Translation, EMNLP 2015. [[ArXiv]](https://arxiv.org/abs/1508.04025)
 
 * Yun Chen, et al.: A Teacher-Student Framework for Zero-Resource Neural Machine Translation, ACL 2017. [[ArXiv]](https://arxiv.org/abs/1705.00753)
 
 * Ashish Vaswani, et al.: Attention Is All You Need, 2017. [[ArXiv]](https://arxiv.org/abs/1706.03762)
 
+* Guillaume Lample and Alexis Conneau: Cross-lingual Language Model Pretraining, 2019. [[ArXiv]](https://arxiv.org/abs/1901.07291)
+
 ## Meta Learning
 
-* Chelsea Finn, et al.: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, ICML 2017. [[Arxiv]](https://arxiv.org/abs/1703.03400)
+* Chelsea Finn, et al.: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, ICML 2017. [[ArXiv]](https://arxiv.org/abs/1703.03400)
 
 * Sachin Ravi and Hugo Larochelle: Optimization as a Model for Few-Shot Learning, ICLR 2017. [[OpenReview]](https://openreview.net/forum?id=rJY0-Kcll)
 ## Multi-Task Learning
