@@ -164,6 +164,8 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * William Fedus, et al.: MaskGAN: Better Text Generation via Filling in the______, ICLR 2018. [[ArXiv]](https://arxiv.org/abs/1801.07736)
 
+* Weili Nie, et al.: RELGAN: RELATIONAL GENERATIVE ADVERSARIAL NETWORKS FOR TEXT GENERATION, ICLR 2019. [[ICLR]](https://openreview.net/forum?id=rJedV3R5tm)
+
 ## Text Summarization
 
 * Romain Paulus, et al.: A Deep Reinforced Model for Abstractive Summarization, ICLR 2018. [[Arxiv]](https://arxiv.org/abs/1705.04304)
