@@ -34,8 +34,10 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 
 ## Overview
-  * Yongjun Hong, et al.: How Generative Adversarial Networks and Their Variants Work: An Overview, ACM 2019. [[ACM]](https://dl.acm.org/citation.cfm?id=3301282)
 
+* Yongjun Hong, et al.: How Generative Adversarial Networks and Their Variants Work: An Overview, ACM 2019. [[ACM]](https://dl.acm.org/citation.cfm?id=3301282)
+
+* Samuel L. Smith, et al.: Don't Decay the Learning Rate, Increase the Batch Size, ICLR 2018. [[ICLR]](https://openreview.net/forum?id=B1Yy1BxCZ)
 
 ## Clustering & Word Embeddings
 
