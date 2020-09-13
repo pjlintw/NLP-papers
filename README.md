@@ -91,6 +91,8 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Zhilin Yang, et al: XLNet: Generalized Autoregressive Pretraining for Language Understanding, NIPS 2019. [[ArXiv]](https://arxiv.org/abs/1906.08237)
 
+* Colin Raffel, et al.: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer. [[Arxiv]](https://arxiv.org/abs/1910.10683)
+
 ## Machine Translation
 
 * Dzmitry Bahdanau, et al.: Neural Machine Translation by Jointly Learning to Align and Translate, ICLR 2015. [[ArXiv]](https://arxiv.org/abs/1409.0473)
