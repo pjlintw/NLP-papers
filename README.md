@@ -65,6 +65,10 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Junyoung Chung, et al.: Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling, CoRR 2014. [[ArXiv]](https://arxiv.org/abs/1412.3555)
 
+## Image Captioning
+
+* Steven J. Rennie, et al.: Self-critical Sequence Training for Image Captioning, CVPR 2017. [[Arxiv]](https://arxiv.org/abs/1612.00563)
+
 ## Image-to-Image Translation
 
 * Jun-Yan Zhu, et al.: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, ICCV 2017. [[ArXiv]](https://arxiv.org/abs/1703.10593)
