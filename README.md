@@ -109,6 +109,8 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Guillaume Lample and Alexis Conneau: Cross-lingual Language Model Pretraining, 2019. [[ArXiv]](https://arxiv.org/abs/1901.07291)
 
+* Christos Baziotis et al.: Language Model Prior for Low-Resource Neural Machine Translation. [[ArXiv]](https://arxiv.org/abs/2004.14928)
+
 ## Meta Learning
 
 * Chelsea Finn, et al.: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, ICML 2017. [[ArXiv]](https://arxiv.org/abs/1703.03400)
