@@ -53,6 +53,13 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Piotr Bojanowski, et al.: Enriching Word Vectors with Subword Information, 2017. [[ACL Anthology]](https://www.aclweb.org/anthology/Q17-1010/)
 
+## Evaluation Metric
+
+* Kishore Papineni, et al.: BLEU: a Method for Automatic Evaluation of Machine Translation, 2002 [[CiteSeer]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.19.9416)
+
+* Chin-Yew Lin: ROUGE: A Package for Automatic Evaluation of Summaries, ACL 2004. [[ACL Anthology](https://www.aclweb.org/anthology/W04-1013/)
+
+
 ## Event Recognition
 
 * Amosse Edouard: Event Detection and Analysis On Short Text Messages, 2018. [[ResearchGate]](https://www.researchgate.net/publication/322486860_Event_detection_and_analysis_on_short_text_messages)
@@ -72,6 +79,8 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 ## Image-to-Image Translation
 
 * Jun-Yan Zhu, et al.: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, ICCV 2017. [[ArXiv]](https://arxiv.org/abs/1703.10593)
+
+* Yunjey Choi et al.: StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation, CVPR 2018. [[ArXiv]](https://arxiv.org/abs/1711.09020)
 
 ## Language Modeling
 
@@ -95,7 +104,9 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Zhilin Yang, et al: XLNet: Generalized Autoregressive Pretraining for Language Understanding, NIPS 2019. [[ArXiv]](https://arxiv.org/abs/1906.08237)
 
-* Colin Raffel, et al.: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer. [[Arxiv]](https://arxiv.org/abs/1910.10683)
+* Colin Raffel, et al.: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer. [[ArXiv]](https://arxiv.org/abs/1910.10683)
+
+* Kevin Clark, er al.: ELECTRA_Pre-training Text Encoders as Discriminators Rather Than Generators. ICLR 2020. [[ArXiv]](https://arxiv.org/abs/2003.10555)
 
 ## Machine Translation
 
@@ -103,11 +114,15 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Minh-Thang Luong, et al.: Effective Approaches to Attention-based Neural Machine Translation, EMNLP 2015. [[ArXiv]](https://arxiv.org/abs/1508.04025)
 
+* Massive Exploration of Neural Machine Translation Architectures, ACL 2017 [[ArXiv]](https://arxiv.org/abs/1703.03906)
+
 * Yun Chen, et al.: A Teacher-Student Framework for Zero-Resource Neural Machine Translation, ACL 2017. [[ArXiv]](https://arxiv.org/abs/1705.00753)
 
 * Ashish Vaswani, et al.: Attention Is All You Need, 2017. [[ArXiv]](https://arxiv.org/abs/1706.03762)
 
 * Guillaume Lample and Alexis Conneau: Cross-lingual Language Model Pretraining, 2019. [[ArXiv]](https://arxiv.org/abs/1901.07291)
+
+* Alexis Conneau et al.: Unsupervised Cross-lingual Representation Learning at Scale, ACL 2020. [[ArXiv]](https://arxiv.org/pdf/1911.02116.pdf)
 
 * Christos Baziotis et al.: Language Model Prior for Low-Resource Neural Machine Translation. [[ArXiv]](https://arxiv.org/abs/2004.14928)
 
@@ -117,7 +132,9 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Sachin Ravi and Hugo Larochelle: Optimization as a Model for Few-Shot Learning, ICLR 2017. [[OpenReview]](https://openreview.net/forum?id=rJY0-Kcll)
 
-* Andrei A. Rusu, et al.: Meta-Learning with Latent Embedding Optimization. [[ArXiv]](https://arxiv.org/abs/1807.05960)
+* Andrei A. Rusu, et al.: Meta-Learning with Latent Embedding Optimization, ICLR 2019. [[ArXiv]](https://arxiv.org/abs/1807.05960)
+
+* Aravind Rajeswaran et al.: Meta-Learning with Implicit Gradients, et al.: Meta-Learning with Implicit Gradients, NIPS 2019. [[ArXiv]](https://arxiv.org/abs/1909.04630)
 
 ## Multi-Task Learning
 
@@ -178,6 +195,8 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 * William Fedus, et al.: MaskGAN: Better Text Generation via Filling in the______, ICLR 2018. [[ArXiv]](https://arxiv.org/abs/1801.07736)
 
 * Weili Nie, et al.: RELGAN: RELATIONAL GENERATIVE ADVERSARIAL NETWORKS FOR TEXT GENERATION, ICLR 2019. [[ICLR]](https://openreview.net/forum?id=rJedV3R5tm)
+
+* Kaitao Song, et al.: MASS: Masked Sequence to Sequence Pre-Training for Langauge Generation, ICML 2019. [[ArXiv]](https://arxiv.org/abs/1905.02450)
 
 ## Text Summarization
 
