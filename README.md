@@ -198,6 +198,9 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Kaitao Song, et al.: MASS: Masked Sequence to Sequence Pre-Training for Langauge Generation, ICML 2019. [[ArXiv]](https://arxiv.org/abs/1905.02450)
 
+* Mike Lewis, et al.: BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension, ACL 2020. [[AxXiv]](https://arxiv.org/abs/1910.13461)
+
+
 ## Text Summarization
 
 * Romain Paulus, et al.: A Deep Reinforced Model for Abstractive Summarization, ICLR 2018. [[Arxiv]](https://arxiv.org/abs/1705.04304)
