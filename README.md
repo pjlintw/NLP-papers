@@ -100,6 +100,8 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Alec Radford, et al: Language Models are Unsupervised Multitask Learners, 2019. [[OpenAI]](https://openai.com/blog/better-language-models/)]
 
+* Zhenzhong Lan, et al: ALBERT: A Lite BERT for Self-supervised Learning of Language Representations, ICLR 2019. [[OpenReview]](https://openreview.net/forum?id=H1eA7AEtvS)
+
 * Zihang Dai, et al: Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context, ACL 2019. [[ArXiv]](https://arxiv.org/abs/1901.02860)
 
 * Zhilin Yang, et al: XLNet: Generalized Autoregressive Pretraining for Language Understanding, NIPS 2019. [[ArXiv]](https://arxiv.org/abs/1906.08237)
@@ -199,7 +201,6 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 * Kaitao Song, et al.: MASS: Masked Sequence to Sequence Pre-Training for Langauge Generation, ICML 2019. [[ArXiv]](https://arxiv.org/abs/1905.02450)
 
 * Mike Lewis, et al.: BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension, ACL 2020. [[AxXiv]](https://arxiv.org/abs/1910.13461)
-
 
 ## Text Summarization
 
