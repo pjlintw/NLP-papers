@@ -74,7 +74,7 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 ## Image Captioning
 
-* Steven J. Rennie, et al.: Self-critical Sequence Training for Image Captioning, CVPR 2017. [[Arxiv]](https://arxiv.org/abs/1612.00563)
+* Steven J. Rennie, et al.: Self-critical Sequence Training for Image Captioning, CVPR 2017. [[ArXiv]](https://arxiv.org/abs/1612.00563)
 
 ## Image-to-Image Translation
 
@@ -204,10 +204,10 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 ## Text Summarization
 
-* Romain Paulus, et al.: A Deep Reinforced Model for Abstractive Summarization, ICLR 2018. [[Arxiv]](https://arxiv.org/abs/1705.04304)
+* Romain Paulus, et al.: A Deep Reinforced Model for Abstractive Summarization, ICLR 2018. [[ArXiv]](https://arxiv.org/abs/1705.04304)
 
 * Yaushian Wang and Hung-Yi Lee: Learning to Encode Text as Human-Readable Summaries using Generative Adversarial Networks, EMNLP 2018. [[ACL Anthology]](https://www.aclweb.org/anthology/D18-1451/)
 
 * Christos Baziotis, et al.: SEQ^3: Differentiable Sequence-to-Sequence-to-Sequence Autoencoder for Unsupervised Abstractive Sentence Compression, NAACL 2019. [[ArXiv]](https://arxiv.org/abs/1904.03651)
 
-* Jingqing Zhang, et al.: PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization, ICML 2020. [[Arxiv]](https://arxiv.org/abs/1912.08777)
+* Jingqing Zhang, et al.: PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization, ICML 2020. [[ArXiv]](https://arxiv.org/abs/1912.08777)
