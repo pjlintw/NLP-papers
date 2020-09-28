@@ -110,6 +110,8 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Kevin Clark, er al.: ELECTRA_Pre-training Text Encoders as Discriminators Rather Than Generators. ICLR 2020. [[ArXiv]](https://arxiv.org/abs/2003.10555)
 
+* Tom B. Brown, et al.: Language Models are Few-Shot Learners, 2020. [[ArXiv]](https://arxiv.org/abs/2005.14165)
+
 ## Machine Translation
 
 * Dzmitry Bahdanau, et al.: Neural Machine Translation by Jointly Learning to Align and Translate, ICLR 2015. [[ArXiv]](https://arxiv.org/abs/1409.0473)
