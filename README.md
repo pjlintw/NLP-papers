@@ -108,6 +108,8 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Colin Raffel, et al.: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer. [[ArXiv]](https://arxiv.org/abs/1910.10683)
 
+* Nikita Kitaev, et al.: Reformer: The Efficient Transformer. [[ArXiv]](https://arxiv.org/abs/2001.04451)
+
 * Kevin Clark, er al.: ELECTRA_Pre-training Text Encoders as Discriminators Rather Than Generators. ICLR 2020. [[ArXiv]](https://arxiv.org/abs/2003.10555)
 
 * Tom B. Brown, et al.: Language Models are Few-Shot Learners, 2020. [[ArXiv]](https://arxiv.org/abs/2005.14165)
