@@ -208,6 +208,8 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 ## Text Style Transfer
 
+* Zichao Yang, et al. Unsupervised Text Style Transfer using Language Models as Discriminators. NIPS 2018. [[ArXiv]](https://arxiv.org/abs/1805.11749)
+
 * Sandeep Subramanian, et al. Multiple-Attribute Text Style Transfer. ICLR 2019. [[ArXiv]](https://arxiv.org/abs/1811.00552)
 
 ## Text Summarization
