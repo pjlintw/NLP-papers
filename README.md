@@ -53,6 +53,10 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Piotr Bojanowski, et al.: Enriching Word Vectors with Subword Information, 2017. [[ACL Anthology]](https://www.aclweb.org/anthology/Q17-1010/)
 
+## Cross-lingual Learning
+
+* Junjie Hu, et al. XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization. 2020. [[ArXiv]](https://arxiv.org/abs/2003.11080)
+
 ## Evaluation Metric
 
 * Kishore Papineni, et al.: BLEU: a Method for Automatic Evaluation of Machine Translation, 2002 [[CiteSeer]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.19.9416)
