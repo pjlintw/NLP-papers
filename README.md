@@ -220,6 +220,8 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Romain Paulus, et al.: A Deep Reinforced Model for Abstractive Summarization, ICLR 2018. [[ArXiv]](https://arxiv.org/abs/1705.04304)
 
+* Angela Fan, et al. Controllable Abstractive Summarization. ACL 2018. [[ArXiv]](https://arxiv.org/abs/1711.05217)
+
 * Yaushian Wang and Hung-Yi Lee: Learning to Encode Text as Human-Readable Summaries using Generative Adversarial Networks, EMNLP 2018. [[ACL Anthology]](https://www.aclweb.org/anthology/D18-1451/)
 
 * Christos Baziotis, et al.: SEQ^3: Differentiable Sequence-to-Sequence-to-Sequence Autoencoder for Unsupervised Abstractive Sentence Compression, NAACL 2019. [[ArXiv]](https://arxiv.org/abs/1904.03651)
