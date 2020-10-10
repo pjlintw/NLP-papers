@@ -118,6 +118,8 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Tom B. Brown, et al.: Language Models are Few-Shot Learners, 2020. [[ArXiv]](https://arxiv.org/abs/2005.14165)
 
+* Louis Martin, etal. CamemBERT: a Tasty French Language Model. ACL 2020. [[ArXiv]]()
+
 ## Machine Translation
 
 * Dzmitry Bahdanau, et al.: Neural Machine Translation by Jointly Learning to Align and Translate, ICLR 2015. [[ArXiv]](https://arxiv.org/abs/1409.0473)
