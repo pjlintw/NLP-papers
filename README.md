@@ -88,27 +88,27 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 ## Language Modeling
 
-* Yoshua Bengio, et al.: A Neural Probabilistic Language Model, J. of Machine Learning Research, 2003. [[ACM DL]](https://dl.acm.org/citation.cfm?id=944966)
+* Yoshua Bengio, et al.: A Neural Probabilistic Language Model, J. of Machine Learning Research. 2003. [[ACM DL]](https://dl.acm.org/citation.cfm?id=944966)
 
-* Rafal Jozefowicz, et al.: Exploring the Limits of Language Modeling, 2016. [[ArXiv]](https://arxiv.org/abs/1602.02410)
+* Rafal Jozefowicz, et al.: Exploring the Limits of Language Modeling. 2016. [[ArXiv]](https://arxiv.org/abs/1602.02410)
 
-* Matthew Peters, et al.: Semi-supervised sequence tagging with bidirectional language models, ACL 2017. [[ArXiv]](https://arxiv.org/abs/1705.00108)
+* Matthew Peters, et al.: Semi-supervised sequence tagging with bidirectional language models. ACL 2017. [[ArXiv]](https://arxiv.org/abs/1705.00108)
 
-* Matthew Peters, et al.: Deep contextualized word representations, NAACL 2018. [[ArXiv]](https://arxiv.org/abs/1802.05365)
+* Matthew Peters, et al.: Deep contextualized word representations. NAACL 2018. [[ArXiv]](https://arxiv.org/abs/1802.05365)
 
-* Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018. [[ArXiv]](https://arxiv.org/abs/1810.04805)
+* Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. 2018. [[ArXiv]](https://arxiv.org/abs/1810.04805)
 
-* Jeremy Howard and Sebastian Ruder: Universal Language Model Fine-tuning for Text Classification, ACL 2018. [[ArXiv]](https://arxiv.org/abs/1801.06146)
+* Jeremy Howard and Sebastian Ruder: Universal Language Model Fine-tuning for Text Classification. ACL 2018. [[ArXiv]](https://arxiv.org/abs/1801.06146)
 
-* Alec Radford, et al: Improving Language Understanding by Generative Pre-Training, 2018. [[OpenAI](https://openai.com/blog/language-unsupervised/)]
+* Alec Radford, et al: Improving Language Understanding by Generative Pre-Training. 2018. [[OpenAI](https://openai.com/blog/language-unsupervised/)]
 
-* Alec Radford, et al: Language Models are Unsupervised Multitask Learners, 2019. [[OpenAI]](https://openai.com/blog/better-language-models/)]
+* Alec Radford, et al: Language Models are Unsupervised Multitask Learners. 2019. [[OpenAI]](https://openai.com/blog/better-language-models/)]
 
-* Zhenzhong Lan, et al: ALBERT: A Lite BERT for Self-supervised Learning of Language Representations, ICLR 2019. [[OpenReview]](https://openreview.net/forum?id=H1eA7AEtvS)
+* Zhenzhong Lan, et al: ALBERT: A Lite BERT for Self-supervised Learning of Language Representations. ICLR 2019. [[OpenReview]](https://openreview.net/forum?id=H1eA7AEtvS)
 
-* Zihang Dai, et al: Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context, ACL 2019. [[ArXiv]](https://arxiv.org/abs/1901.02860)
+* Zihang Dai, et al: Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context. ACL 2019. [[ArXiv]](https://arxiv.org/abs/1901.02860)
 
-* Zhilin Yang, et al: XLNet: Generalized Autoregressive Pretraining for Language Understanding, NIPS 2019. [[ArXiv]](https://arxiv.org/abs/1906.08237)
+* Zhilin Yang, et al: XLNet: Generalized Autoregressive Pretraining for Language Understanding. NIPS 2019. [[ArXiv]](https://arxiv.org/abs/1906.08237)
 
 * Colin Raffel, et al.: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer. [[ArXiv]](https://arxiv.org/abs/1910.10683)
 
@@ -116,7 +116,7 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Kevin Clark, er al.: ELECTRA_Pre-training Text Encoders as Discriminators Rather Than Generators. ICLR 2020. [[ArXiv]](https://arxiv.org/abs/2003.10555)
 
-* Tom B. Brown, et al.: Language Models are Few-Shot Learners, 2020. [[ArXiv]](https://arxiv.org/abs/2005.14165)
+* Tom B. Brown, et al.: Language Models are Few-Shot Learners. 2020. [[ArXiv]](https://arxiv.org/abs/2005.14165)
 
 * Louis Martin, etal. CamemBERT: a Tasty French Language Model. ACL 2020. [[ArXiv]]()
 
