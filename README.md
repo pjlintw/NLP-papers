@@ -35,23 +35,23 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 ## Overview
 
-* Yongjun Hong, et al.: How Generative Adversarial Networks and Their Variants Work: An Overview, ACM 2019. [[ACM]](https://dl.acm.org/citation.cfm?id=3301282)
+* Yongjun Hong, et al.: How Generative Adversarial Networks and Their Variants Work: An Overview. ACM 2019. [[ACM]](https://dl.acm.org/citation.cfm?id=3301282)
 
-* Samuel L. Smith, et al.: Don't Decay the Learning Rate, Increase the Batch Size, ICLR 2018. [[ICLR]](https://openreview.net/forum?id=B1Yy1BxCZ)
+* Samuel L. Smith, et al.: Don't Decay the Learning Rate, Increase the Batch Size. ICLR 2018. [[ICLR]](https://openreview.net/forum?id=B1Yy1BxCZ)
 
 ## Clustering & Word Embeddings
 
-* Peter F Brown, et al.: Class-Based n-gram Models of Natural Language, 1992. [[ACL Anthology]](https://www.aclweb.org/anthology/J92-4003/)
+* Peter F Brown, et al.: Class-Based n-gram Models of Natural Language. 1992. [[ACL Anthology]](https://www.aclweb.org/anthology/J92-4003/)
 
-* Tomas Mikolov, et al.: Efficient Estimation of Word Representations in Vector Space, 2013. [[ArXiv]](https://arxiv.org/abs/1301.3781)
+* Tomas Mikolov, et al.: Efficient Estimation of Word Representations in Vector Space. 2013. [[ArXiv]](https://arxiv.org/abs/1301.3781)
 
-* Tomas Mikolov, et al.: Distributed Representations of Words and Phrases and their Compositionality, NIPS 2013. [[ArXiv]](https://arxiv.org/abs/1310.4546)
+* Tomas Mikolov, et al.: Distributed Representations of Words and Phrases and their Compositionality. NIPS 2013. [[ArXiv]](https://arxiv.org/abs/1310.4546)
 
-* Quoc V. Le and Tomas Mikolov: Distributed Representations of Sentences and Documents, 2014. [[ArXiv]](https://arxiv.org/abs/1405.4053)
+* Quoc V. Le and Tomas Mikolov: Distributed Representations of Sentences and Documents. 2014. [[ArXiv]](https://arxiv.org/abs/1405.4053)
 
-* Jeffrey Pennington, et al.: GloVe: Global Vectors for Word Representation, 2014. [[ACL Anthology]](https://www.aclweb.org/anthology/D14-1162/)
+* Jeffrey Pennington, et al.: GloVe: Global Vectors for Word Representation. 2014. [[ACL Anthology]](https://www.aclweb.org/anthology/D14-1162/)
 
-* Piotr Bojanowski, et al.: Enriching Word Vectors with Subword Information, 2017. [[ACL Anthology]](https://www.aclweb.org/anthology/Q17-1010/)
+* Piotr Bojanowski, et al.: Enriching Word Vectors with Subword Information. 2017. [[ACL Anthology]](https://www.aclweb.org/anthology/Q17-1010/)
 
 ## Cross-lingual Learning
 
@@ -59,32 +59,32 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 ## Evaluation Metric
 
-* Kishore Papineni, et al.: BLEU: a Method for Automatic Evaluation of Machine Translation, 2002 [[CiteSeer]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.19.9416)
+* Kishore Papineni, et al.: BLEU: a Method for Automatic Evaluation of Machine Translation. 2002 [[CiteSeer]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.19.9416)
 
-* Chin-Yew Lin: ROUGE: A Package for Automatic Evaluation of Summaries, ACL 2004. [[ACL Anthology](https://www.aclweb.org/anthology/W04-1013/)
+* Chin-Yew Lin: ROUGE: A Package for Automatic Evaluation of Summaries. ACL 2004. [[ACL Anthology](https://www.aclweb.org/anthology/W04-1013/)
 
 
 ## Event Recognition
 
-* Amosse Edouard: Event Detection and Analysis On Short Text Messages, 2018. [[ResearchGate]](https://www.researchgate.net/publication/322486860_Event_detection_and_analysis_on_short_text_messages)
+* Amosse Edouard: Event Detection and Analysis On Short Text Messages. 2018. [[ResearchGate]](https://www.researchgate.net/publication/322486860_Event_detection_and_analysis_on_short_text_messages)
 
-* Deepayan Chakrabarti and Kunal Punera: Event Summarization Using Tweets, ICWSM 2011. [[ResearchGate]](https://www.researchgate.net/publication/221298063_Event_Summarization_Using_Tweets)
+* Deepayan Chakrabarti and Kunal Punera: Event Summarization Using Tweets. ICWSM 2011. [[ResearchGate]](https://www.researchgate.net/publication/221298063_Event_Summarization_Using_Tweets)
 
-* Maria Vargas-Vera and David Celjuska: Event Recognition on News Stories and Semi-Automatic Population of an Ontology, Web Intelligence 2004. [[ResearchGate]](https://www.researchgate.net/publication/42790057_Event_recognition_on_news_stories_and_semi-automatic_population_of_an_ontology)
+* Maria Vargas-Vera and David Celjuska: Event Recognition on News Stories and Semi-Automatic Population of an Ontology. Web Intelligence 2004. [[ResearchGate]](https://www.researchgate.net/publication/42790057_Event_recognition_on_news_stories_and_semi-automatic_population_of_an_ontology)
 
 ## Gated Recurrent Unit
 
-* Junyoung Chung, et al.: Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling, CoRR 2014. [[ArXiv]](https://arxiv.org/abs/1412.3555)
+* Junyoung Chung, et al.: Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling. CoRR 2014. [[ArXiv]](https://arxiv.org/abs/1412.3555)
 
 ## Image Captioning
 
-* Steven J. Rennie, et al.: Self-critical Sequence Training for Image Captioning, CVPR 2017. [[ArXiv]](https://arxiv.org/abs/1612.00563)
+* Steven J. Rennie, et al.: Self-critical Sequence Training for Image Captioning. CVPR 2017. [[ArXiv]](https://arxiv.org/abs/1612.00563)
 
 ## Image-to-Image Translation
 
-* Jun-Yan Zhu, et al.: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, ICCV 2017. [[ArXiv]](https://arxiv.org/abs/1703.10593)
+* Jun-Yan Zhu, et al.: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. ICCV 2017. [[ArXiv]](https://arxiv.org/abs/1703.10593)
 
-* Yunjey Choi et al.: StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation, CVPR 2018. [[ArXiv]](https://arxiv.org/abs/1711.09020)
+* Yunjey Choi et al.: StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation. CVPR 2018. [[ArXiv]](https://arxiv.org/abs/1711.09020)
 
 ## Language Modeling
 
