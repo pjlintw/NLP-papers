@@ -80,6 +80,10 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Steven J. Rennie, et al.: Self-critical Sequence Training for Image Captioning. CVPR 2017. [[ArXiv]](https://arxiv.org/abs/1612.00563)
 
+## Image Recognition 
+
+* An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. [[ICLR]](https://openreview.net/forum?id=YicbFdNTTy)
+
 ## Image-to-Image Translation
 
 * Jun-Yan Zhu, et al.: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. ICCV 2017. [[ArXiv]](https://arxiv.org/abs/1703.10593)
