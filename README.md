@@ -227,7 +227,7 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 ## Text Summarization
 
-* Romain Paulus, et al. A Deep Reinforced Model for Abstractive Summarization, ICLR 2018. [[ArXiv]](https://arxiv.org/abs/1705.04304)
+* Romain Paulus, et al. A Deep Reinforced Model for Abstractive Summarization. ICLR 2018. [[ArXiv]](https://arxiv.org/abs/1705.04304)
 
 * Angela Fan, et al. Controllable Abstractive Summarization. ACL 2018. [[ArXiv]](https://arxiv.org/abs/1711.05217)
 
