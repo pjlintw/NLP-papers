@@ -143,7 +143,7 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Alexis Conneau et al. Unsupervised Cross-lingual Representation Learning at Scale. ACL 2020. [[ArXiv]](https://arxiv.org/pdf/1911.02116.pdf)
 
-* Christos Baziotis et al. Language Model Prior for Low-Resource Neural Machine Translation. [[ArXiv]](https://arxiv.org/abs/2004.14928)
+* Christos Baziotis et al. Language Model Prior for Low-Resource Neural Machine Translation. EMNLP 2020. [[ArXiv]](https://arxiv.org/abs/2004.14928)
 
 ## Meta Learning
 
