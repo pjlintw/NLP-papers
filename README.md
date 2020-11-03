@@ -181,8 +181,6 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * John Lafferty, Andrew McCallum, Fernando C.N. Pereira: Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data. ICML 2001. [[ACM DL]](https://dl.acm.org/citation.cfm?id=655813)
 
-* Undirected Graphical Models
-
 ## Reinforcement Learning
 
 * Kristopher D. Asis, et al. Multi_Step Reinforcement Learning_A Unifying Algorithm. AAAI 2018. [[ArXiv]](https://arxiv.org/abs/1703.01327)
