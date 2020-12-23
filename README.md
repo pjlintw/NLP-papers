@@ -93,6 +93,8 @@ Check [Neural Network Language Model (NNLM)](https://github.com/pjlintw/NNLM)
 
 * Yunjey Choi et al. StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation. CVPR 2018. [[ArXiv]](https://arxiv.org/abs/1711.09020)
 
+* Taesung Park, et al. Contrastive Learning for Unpaired Image-to-Image Translation. ECCV 2020. [[ArXiv]](https://arxiv.org/abs/2007.15651)
+
 ## Language Modeling
 
 * Yoshua Bengio, et al. A Neural Probabilistic Language Model, J. of Machine Learning Research. 2003. [[ACM DL]](https://dl.acm.org/citation.cfm?id=944966)
